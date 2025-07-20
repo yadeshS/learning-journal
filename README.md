@@ -29,7 +29,7 @@ This repository is a public record of my growth, exploration, and hands-on pract
 
 ## 🔧 Tech Stack I'm Using
 
-- **Languages**: Python, C, JavaScript  
+- **Languages**: Python, JavaScript, CSS, Html  
 - **Tools**: Git, VS Code, Wireshark, Postman  
 - **Cloud**: AWS (learning), Azure (learning)  
 - **Others**: Linux CLI, SQL, MongoDB, Streamlit
