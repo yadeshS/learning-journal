@@ -1,65 +1,50 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Hi%20I'm%20Yadesh%20👋&fontSize=50&fontColor=ffffff" alt="banner" />
-</p>
+# 📚 Yadesh's Learning Journal
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;MS+in+Information+Technology+@+ASU;Cloud+Engineer+in+the+Making☁️;AI/ML+Enthusiast🤖&center=true&width=600&height=45">
-</p>
-
-<p align="center">
-  <b>MSIT @ Arizona State University 🇺🇸 | Aspiring Cloud Engineer ☁️ | AI & Data Enthusiast 🤖</b>
-</p>
+Welcome to my learning journal! I'm currently pursuing my **Master’s in Information Technology** at **Arizona State University** 🇺🇸.  
+This repository is a public record of my growth, exploration, and hands-on practice across topics like Cloud Computing, Algorithms, Networks, and AI/ML.
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Master’s student in Information Technology at ASU  
-- 🌱 Currently learning: Algorithms, Networks, Cloud Platforms (AWS, Azure)  
-- 💼 Interested in: Cloud Engineering, AI/ML, Full Stack Development  
-- 💬 Ask me about: Python, React, Node.js, MongoDB, ML projects  
-- 📫 Reach me at: **ysenthi2@asu.edu**
+## 📅 Weekly Logs
+
+| Week | Topics Covered | Key Areas |
+|------|----------------|-----------|
+| [Week 01](./week-01) | Python basics, Git commands | Variables, loops, GitHub setup |
+| [Week 02](./week-02) | Networks intro, IP addressing | OSI model, subnetting |
+| [Week 03](./week-03) | Algorithms & Data Structures | Sorting, recursion |
+| Week 04 | _Coming soon_ | _–_ |
+
+> 🔄 Updated every Sunday | 💡 Real practice, real learning
 
 ---
 
+## 🧠 What You'll Find Here
 
-
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 📓 **Weekly Notes** – Key concepts from lectures and self-study  
+- 🧪 **Practice Code** – Hands-on with Python, JavaScript, Shell, etc.  
+- 🗣️ **Reflections** – Challenges I faced, what I learned, and what’s next  
+- 📸 **Screenshots** – Setup steps, configurations, CLI outputs  
 
 ---
 
-### 📊 GitHub Stats
+## 🔧 Tech Stack I'm Using
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadeshS&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadeshS&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-### 🌱 Learning Journal
-
-🗂️ I'm keeping a weekly log of my learning journey:  
-🔗 [Check out my Learning Journal Repository](https://github.com/yadeshS/learning-journal)
+- **Languages**: Python, C, JavaScript  
+- **Tools**: Git, VS Code, Wireshark, Postman  
+- **Cloud**: AWS (learning), Azure (learning)  
+- **Others**: Linux CLI, SQL, MongoDB, Streamlit
 
 ---
 
-### 📫 Connect With Me
+## 🎯 My Goals with This Journal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadeshS)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@asu.edu)
+- Build a strong foundation in core computer science topics  
+- Stay consistent and self-accountable  
+- Document practical skills that support my career goals  
+- Create a valuable resource for peers or juniors
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yadeshS&color=blue" alt="GitHub Profile Views" />
-</p>
+## 💬 How to Use This Repo
+
+Feel free to browse through each weekly folder. Each one contains:
